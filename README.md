@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rujultelavane
-- 🌱 I’m currently learning java and c#
+- 🌱 High school senior
 - 😄 Pronouns: she/her
 
 <!---
