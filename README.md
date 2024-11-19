@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rujultelavane
-- 🌱 High school Senior (Class of 2025)
-- 😄 Pronouns: she/her
+- 🌱 she/her
+- 😄 currently living up senior year
 
 <!---
 rujultelavane/rujultelavane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
