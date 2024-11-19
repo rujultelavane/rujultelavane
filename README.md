@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rujultelavane
-- 🌱 High school senior
+- 🌱 High school Senior (Class of 2025)
 - 😄 Pronouns: she/her
 
 <!---
