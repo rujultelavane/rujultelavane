@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rujultelavane
 - 🌱 she/her
-- 😄 currently living up senior year
+- 😄 Currently studying CS @ NJIT
 
 <!---
 rujultelavane/rujultelavane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
