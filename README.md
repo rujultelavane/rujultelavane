@@ -1,8 +1,9 @@
-## Hello there 👋
+## Hi! 👋
 
-- 👋 Hi, I’m @rujultelavane
+- 👋 I'm Rujul!
 - 🌱 she/her
 - 😄 Currently studying CS @ NJIT
+- I'm interested in Full-Stack Development, SWE, Cybersecurity
 
 <!---
 rujultelavane/rujultelavane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
